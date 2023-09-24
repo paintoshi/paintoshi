@@ -6,6 +6,6 @@
 * https://estfor.com
 * https://tinyswap.app
 
-### Part developer of:
+### Part frontend developer of:
 
 * https://benfi.io
