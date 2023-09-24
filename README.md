@@ -1,3 +1,11 @@
-Lead frontend developer at https://paintswap.finance
+### Inventor, coder, visionary, tech guru, and a lot more.
 
-Inventor, coder, visionary tech guru and more.
+### Lead frontend developer of
+
+* https://paintswap.finance
+* https://estfor.com
+* https://tinyswap.app
+
+### Part developer of:
+
+* https://benfi.io
