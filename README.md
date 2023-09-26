@@ -5,7 +5,3 @@
 * https://paintswap.finance
 * https://estfor.com
 * https://tinyswap.app
-
-### Part frontend developer of:
-
-* https://benfi.io
