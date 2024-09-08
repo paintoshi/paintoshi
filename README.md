@@ -5,3 +5,4 @@
 * https://paintswap.finance
 * https://estfor.com
 * https://tinyswap.app
+* https://auth.cash/
