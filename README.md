@@ -4,11 +4,12 @@
 
 ### Lead frontend developer of
 
-* https://paintswap.finance
+* https://paintswap.io
 * https://estfor.com
 * https://speedchecker.paintswap.io
 
 ### Creator and owner of
 
 * https://tinyswap.app
-* https://auth.cash/
+* https://music.paintoshi.dev
+* https://drops.paintoshi.dev
