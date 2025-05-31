@@ -12,4 +12,7 @@
 
 * https://tinyswap.app
 * https://music.paintoshi.dev
+* https://warp.paintoshi.dev/
 * https://drops.paintoshi.dev
+* https://invaders.paintoshi.dev
+* https://airdrop.paintoshi.dev
