@@ -5,8 +5,10 @@
 ### Lead frontend developer of
 
 * https://paintswap.io
-* https://estfor.com
+* https://nft.paintswap.io
+* https://airdrop.paintswap.io
 * https://speedchecker.paintswap.io
+* https://estfor.com
 
 ### Creator and owner of
 
