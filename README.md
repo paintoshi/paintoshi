@@ -5,10 +5,9 @@
 ### Lead frontend developer of
 
 * https://paintswap.io
-* https://nft.paintswap.io
+* https://estfor.com
 * https://airdrop.paintswap.io
 * https://speedchecker.paintswap.io
-* https://estfor.com
 
 ### Creator and owner of
 
@@ -18,3 +17,7 @@
 * https://drops.paintoshi.dev
 * https://invaders.paintoshi.dev
 * https://airdrop.paintoshi.dev
+
+### Previous work
+
+* Paintswap Marketplace: Leading NFT marketplace on Fantom & Sonic
